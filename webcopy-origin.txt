@@ -1,0 +1,136 @@
+Uri: https://play.spaceport.to/
+File Name: C:\Downloaded Web Sites\play.spaceport.to\index.htm
+Content Type: text/html
+
+Uri: https://i.imgur.com/pO6M0uB.png
+File Name: C:\Downloaded Web Sites\play.spaceport.to\pO6M0uB.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900
+File Name: C:\Downloaded Web Sites\play.spaceport.to\css.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css
+File Name: C:\Downloaded Web Sites\play.spaceport.to\npm\@mdi\font@latest\css\materialdesignicons.min.css
+Content Type: text/css
+
+Uri: https://play.spaceport.to/css/chunk-1d61c286.b7a6d042.css
+File Name: C:\Downloaded Web Sites\play.spaceport.to\css\chunk-1d61c286.b7a6d042.css
+Content Type: text/css
+
+Uri: https://play.spaceport.to/css/chunk-415f7baf.efa69d38.css
+File Name: C:\Downloaded Web Sites\play.spaceport.to\css\chunk-415f7baf.efa69d38.css
+Content Type: text/css
+
+Uri: https://play.spaceport.to/css/chunk-46932850.83dc842e.css
+File Name: C:\Downloaded Web Sites\play.spaceport.to\css\chunk-46932850.83dc842e.css
+Content Type: text/css
+
+Uri: https://play.spaceport.to/css/chunk-56fffa78.11e131f7.css
+File Name: C:\Downloaded Web Sites\play.spaceport.to\css\chunk-56fffa78.11e131f7.css
+Content Type: text/css
+
+Uri: https://play.spaceport.to/css/chunk-66141822.72a36f2a.css
+File Name: C:\Downloaded Web Sites\play.spaceport.to\css\chunk-66141822.72a36f2a.css
+Content Type: text/css
+
+Uri: https://play.spaceport.to/css/chunk-92a14dc8.f0222215.css
+File Name: C:\Downloaded Web Sites\play.spaceport.to\css\chunk-92a14dc8.f0222215.css
+Content Type: text/css
+
+Uri: https://play.spaceport.to/css/chunk-bd862c78.29fa68a6.css
+File Name: C:\Downloaded Web Sites\play.spaceport.to\css\chunk-bd862c78.29fa68a6.css
+Content Type: text/css
+
+Uri: https://play.spaceport.to/js/chunk-1d61c286.ea61e9a6.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\js\chunk-1d61c286.ea61e9a6.js
+Content Type: application/javascript
+
+Uri: https://play.spaceport.to/js/chunk-29e3ac7b.c2cd7bb1.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\js\chunk-29e3ac7b.c2cd7bb1.js
+Content Type: application/javascript
+
+Uri: https://play.spaceport.to/js/chunk-2d0aba7c.dbeeac3a.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\js\chunk-2d0aba7c.dbeeac3a.js
+Content Type: application/javascript
+
+Uri: https://play.spaceport.to/js/chunk-2d0baa51.7a88a04f.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\js\chunk-2d0baa51.7a88a04f.js
+Content Type: application/javascript
+
+Uri: https://play.spaceport.to/js/chunk-2d208c18.ffe41b00.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\js\chunk-2d208c18.ffe41b00.js
+Content Type: application/javascript
+
+Uri: https://play.spaceport.to/js/chunk-2d22b9de.79edfb2f.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\js\chunk-2d22b9de.79edfb2f.js
+Content Type: application/javascript
+
+Uri: https://play.spaceport.to/js/chunk-415f7baf.e614bcac.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\js\chunk-415f7baf.e614bcac.js
+Content Type: application/javascript
+
+Uri: https://play.spaceport.to/js/chunk-46932850.bacf5a06.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\js\chunk-46932850.bacf5a06.js
+Content Type: application/javascript
+
+Uri: https://play.spaceport.to/js/chunk-56fffa78.21475587.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\js\chunk-56fffa78.21475587.js
+Content Type: application/javascript
+
+Uri: https://play.spaceport.to/js/chunk-66141822.92150a2e.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\js\chunk-66141822.92150a2e.js
+Content Type: application/javascript
+
+Uri: https://play.spaceport.to/js/chunk-92a14dc8.e0298365.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\js\chunk-92a14dc8.e0298365.js
+Content Type: application/javascript
+
+Uri: https://play.spaceport.to/js/chunk-bd862c78.18f37c4b.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\js\chunk-bd862c78.18f37c4b.js
+Content Type: application/javascript
+
+Uri: https://play.spaceport.to/css/app.062eb551.css
+File Name: C:\Downloaded Web Sites\play.spaceport.to\css\app.062eb551.css
+Content Type: text/css
+
+Uri: https://play.spaceport.to/css/chunk-vendors.ba3b6afe.css
+File Name: C:\Downloaded Web Sites\play.spaceport.to\css\chunk-vendors.ba3b6afe.css
+Content Type: text/css
+
+Uri: https://play.spaceport.to/js/app.814a103b.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\js\app.814a103b.js
+Content Type: application/javascript
+
+Uri: https://play.spaceport.to/js/chunk-vendors.23efca6d.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\js\chunk-vendors.23efca6d.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/ethereum/web3.js@1.0.0-beta.36/dist/web3.min.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\gh\ethereum\web3.js@1.0.0-beta.36\dist\web3.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\ajax\libs\axios\0.21.1\axios.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-77KN2DHF5Q
+File Name: C:\Downloaded Web Sites\play.spaceport.to\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/@walletconnect/web3-provider@1.5.2/dist/umd/index.min.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\@walletconnect\web3-provider@1.5.2\dist\umd\index.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/@walletconnect/client@1.5.2/dist/umd/index.min.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\@walletconnect\client@1.5.2\dist\umd\index.min.js
+Content Type: application/javascript
+
+Uri: https://play.spaceport.to/fonts/PressStart2P-vaV7.74496d90.ttf
+File Name: C:\Downloaded Web Sites\play.spaceport.to\fonts\PressStart2P-vaV7.74496d90.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js
+File Name: C:\Downloaded Web Sites\play.spaceport.to\particles.js\2.0.0\particles.min.js
+Content Type: application/javascript
+
